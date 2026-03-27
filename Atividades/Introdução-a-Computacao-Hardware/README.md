@@ -70,14 +70,16 @@ Esse fato mostra que o ENIAC não foi apenas um marco do hardware, mas também u
 
 ## Imagens
 
+
 ### ENIAC em operação
-(Imagem histórica do ENIAC ocupando uma sala inteira, com grandes painéis eletrônicos)
+![ENIAC ocupando uma sala inteira](imagens/eniac.jpg)
 
 ### Programadoras do ENIAC
-(Imagem das mulheres programadoras operando os painéis e conexões do ENIAC)
+![Programadoras do ENIAC operando a máquina](imagens/eniac-programadoras.jpg)
+
 
 ### Estrutura física do equipamento
-(Imagem ou diagrama mostrando válvulas eletrônicas, cabos e painéis do ENIAC)
+![Programadoras do ENIAC operando a máquina](imagens/estrutura-eniac.png).
 
 ---
 
