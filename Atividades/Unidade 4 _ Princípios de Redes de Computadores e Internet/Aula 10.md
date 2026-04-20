@@ -73,5 +73,5 @@ Após a aula, escreva uma reflexão de 1 página sobre como a evolução das red
 - **TANENBAUM, Andrew S.** *Redes de Computadores* (6ª Edição). Pearson/Bookman.
 - **SOARES, L.; LEMOS, G.; COLCHER, S.** *Redes de Computadores: Das LANs, MANs e WANs às Redes ATM*. Editora Campus.
 - **Amazon Web Services (AWS).** O que são redes de computadores?
-- **TMJuntos. Linha do tempo da evolução da tecnologia. Disponível em: <https://tmjuntos.com.br/tecnologia/linha-do-tempo-da-evolucao-da-tecnologia/>.
+- TMJuntos. Linha do tempo da evolução da tecnologia. Disponível em: <https://tmjuntos.com.br/tecnologia/linha-do-tempo-da-evolucao-da-tecnologia/>.
 
