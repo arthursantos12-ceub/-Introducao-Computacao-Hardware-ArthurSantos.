@@ -1,8 +1,7 @@
 # Aula 10 – Redes de Computadores: Histórico, Elementos e Classificação
 
-## Nome(s) dos estudante(s): ________________________  
-## Matrícula(s): ________________
-
+## Nome(s) dos estudante(s): Arthur Santos Lemos Reis
+## Matrícula(s): 22601342 
 ---
 
 ## Objetivos da Aula
@@ -12,15 +11,8 @@
 - **Classificar redes segundo abrangência geográfica e modelo computacional.**
 
 ### 1. **Linha do Tempo**
-A linha do tempo ilustrada deve representar os principais marcos da evolução das redes. Baseado no PDF enviado, a linha do tempo pode incluir:
 
-- **Década de 1950 a 1960 (Mainframes)**: Computadores isolados e de alto custo, sem comunicação externa.  
-- **1969 (Criação da ARPANET)**: O nascimento da rede que mais tarde daria origem à Internet.  
-- **Década de 1980 (TCP/IP)**: A padronização das comunicações e o começo da evolução para a Internet.  
-- **Anos 1990 (Internet Comercial)**: Expansão da rede para o público em geral.  
-- **Redes Móveis (2000s em diante)**: A ascensão das redes sem fio e dispositivos móveis, mudando a maneira como nos conectamos.
 
-**Sugestão para imagem**: Crie uma linha do tempo digital no formato **PNG** ou **PDF** usando ferramentas como **Canva** ou **Google Slides**. Adicione ícones e ilustrações para tornar a linha do tempo visualmente atraente.
 
 ### 2. **Elementos da Rede**
 O esquema que representa os quatro elementos fundamentais de uma rede pode ser estruturado como mostrado na imagem do PDF na página 4.
