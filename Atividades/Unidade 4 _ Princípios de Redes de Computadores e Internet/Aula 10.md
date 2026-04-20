@@ -14,15 +14,13 @@
 
 ![Linha do Tempo das Redes](imagens/linha_do_tempo.png)
 
-
 ### 2. **Elementos da Rede**
-O esquema que representa os quatro elementos fundamentais de uma rede pode ser estruturado como mostrado na imagem do PDF na página 4.
 
 **Os quatro elementos são**:
-- **Emissor**: O dispositivo que transmite a informação inicial (exemplo: um notebook).
-- **Receptor**: O dispositivo que recebe a informação (exemplo: servidor).
-- **Meio de Transmissão**: O caminho pelo qual os dados são transmitidos (exemplo: cabos de rede, ondas de rádio).
-- **Protocolo**: O conjunto de regras que define como a comunicação ocorre e é compreendida (exemplo: HTTP).
+- **Emissor**: O dispositivo que transmite a informação inicial. 
+- **Receptor**: O dispositivo que recebe a informação.
+- **Meio de Transmissão**: O caminho pelo qual os dados são transmitidos.
+- **Protocolo**: O conjunto de regras que define como a comunicação ocorre e é compreendida.
 
 **Sugestão para imagem**: Faça um diagrama simples ilustrando os quatro elementos conectados. Utilize **setas** para mostrar o fluxo de dados entre eles. Isso pode ser feito no **Canva** ou **Google Slides**.
 
@@ -75,7 +73,5 @@ Após a aula, escreva uma reflexão de 1 página sobre como a evolução das red
 - **TANENBAUM, Andrew S.** *Redes de Computadores* (6ª Edição). Pearson/Bookman.
 - **SOARES, L.; LEMOS, G.; COLCHER, S.** *Redes de Computadores: Das LANs, MANs e WANs às Redes ATM*. Editora Campus.
 - **Amazon Web Services (AWS).** O que são redes de computadores?
+- **TMJuntos. Linha do tempo da evolução da tecnologia. Disponível em: <https://tmjuntos.com.br/tecnologia/linha-do-tempo-da-evolucao-da-tecnologia/>.
 
----
-
-Este **README.md** está pronto para ser copiado e colado no seu repositório GitHub. Ele contém todas as instruções necessárias para organizar a entrega do trabalho.
