@@ -1,38 +1,94 @@
 # Aula 10 – Redes de Computadores: Histórico, Elementos e Classificação
 
-## Nome(s) dos estudante(s): ________________________ e matrícula(s): ________________
-
-## Objetivo
-Compreender a evolução das redes de computadores, identificar seus elementos básicos e classificar diferentes tipos de redes.
-
-## Estrutura da Entrega
-Cada grupo deve incluir neste repositório:
-
-### 1. Linha do Tempo
-- Representação dos principais marcos da evolução das redes (mainframes, ARPANET, TCP/IP, Internet comercial, redes móveis).
-- Pode ser em formato de imagem, PDF ou slides.
-
-### 2. Elementos da Rede
-- Esquema ilustrando os quatro elementos fundamentais:
-  - **Emissor**
-  - **Receptor**
-  - **Meio de Transmissão**
-  - **Protocolo**
-- Exemplos práticos com dispositivos reais.
-
-### 3. Classificação de Redes
-- Quadro comparativo ou mapa conceitual com exemplos reais:
-  - **PAN** – Bluetooth entre celular e fone de ouvido.
-  - **LAN** – Rede doméstica ou de laboratório.
-  - **MAN** – Rede de uma universidade ou prefeitura.
-  - **WAN** – Internet.
-
-## Organização dos Arquivos
-- Criar uma pasta com o nome do grupo (ex.: `Grupo1_Windows`, `Grupo2_Linux`).
-- Dentro da pasta, incluir:
-  - `linha_tempo.pdf` ou `linha_tempo.png`
-  - `elementos_rede.png` ou `elementos_rede.pdf`
-  - `classificacao_redes.pdf` ou `classificacao_redes.png`
-  - `README.md` com breve descrição do trabalho.
+## Nome(s) dos estudante(s): ________________________  
+## Matrícula(s): ________________
 
 ---
+
+## Objetivos da Aula
+
+- **Compreender a evolução das redes de computadores.**
+- **Identificar os elementos básicos de uma rede.**
+- **Classificar redes segundo abrangência geográfica e modelo computacional.**
+
+---
+
+## Estrutura da Entrega
+
+Cada grupo deve incluir neste repositório os seguintes artefatos:
+
+### 1. **Linha do Tempo**
+A linha do tempo ilustrada deve representar os principais marcos da evolução das redes. Baseado no PDF enviado, a linha do tempo pode incluir:
+
+- **Década de 1950 a 1960 (Mainframes)**: Computadores isolados e de alto custo, sem comunicação externa.  
+- **1969 (Criação da ARPANET)**: O nascimento da rede que mais tarde daria origem à Internet.  
+- **Década de 1980 (TCP/IP)**: A padronização das comunicações e o começo da evolução para a Internet.  
+- **Anos 1990 (Internet Comercial)**: Expansão da rede para o público em geral.  
+- **Redes Móveis (2000s em diante)**: A ascensão das redes sem fio e dispositivos móveis, mudando a maneira como nos conectamos.
+
+**Sugestão para imagem**: Crie uma linha do tempo digital no formato **PNG** ou **PDF** usando ferramentas como **Canva** ou **Google Slides**. Adicione ícones e ilustrações para tornar a linha do tempo visualmente atraente.
+
+### 2. **Elementos da Rede**
+O esquema que representa os quatro elementos fundamentais de uma rede pode ser estruturado como mostrado na imagem do PDF na página 4.
+
+**Os quatro elementos são**:
+- **Emissor**: O dispositivo que transmite a informação inicial (exemplo: um notebook).
+- **Receptor**: O dispositivo que recebe a informação (exemplo: servidor).
+- **Meio de Transmissão**: O caminho pelo qual os dados são transmitidos (exemplo: cabos de rede, ondas de rádio).
+- **Protocolo**: O conjunto de regras que define como a comunicação ocorre e é compreendida (exemplo: HTTP).
+
+**Sugestão para imagem**: Faça um diagrama simples ilustrando os quatro elementos conectados. Utilize **setas** para mostrar o fluxo de dados entre eles. Isso pode ser feito no **Canva** ou **Google Slides**.
+
+### 3. **Classificação de Redes**
+Com base na **classificação geográfica** e **modelo computacional** apresentada no PDF, cada grupo deverá criar um quadro comparativo com exemplos de redes de diferentes categorias.
+
+**Classificação Geográfica**:
+- **PAN (Personal Area Network)**: Rede de dispositivos próximos (exemplo: Bluetooth entre celular e fone de ouvido).
+- **LAN (Local Area Network)**: Rede local (exemplo: rede doméstica ou de laboratório).
+- **MAN (Metropolitan Area Network)**: Rede que abrange uma cidade (exemplo: rede de uma universidade ou prefeitura).
+- **WAN (Wide Area Network)**: Rede de larga distância (exemplo: a própria Internet).
+
+**Classificação de Modelos Computacionais**:
+- **Computação Centralizada**: Um único computador centraliza os recursos e fornece serviços aos dispositivos conectados (exemplo: mainframes).
+- **Cliente/Servidor**: Dispositivos clientes acessam recursos fornecidos por um servidor centralizado.
+- **Ponto-a-Ponto (P2P)**: Todos os dispositivos têm o mesmo papel, compartilhando recursos diretamente entre si (exemplo: torrent).
+
+**Sugestão para imagem**: Utilize uma tabela ou **mapa conceitual** que organize essas classificações de forma clara. Pode ser feito com o **Google Slides**, **Canva** ou **PowerPoint**.
+
+---
+
+## Organização dos Arquivos
+
+1. Crie uma pasta com o nome do seu grupo (exemplo: `Grupo1_Windows`, `Grupo2_Linux`).
+2. Dentro da pasta, organize os seguintes arquivos:
+   - `linha_tempo.pdf` ou `linha_tempo.png` (Imagem ou PDF com a linha do tempo ilustrada).
+   - `elementos_rede.png` ou `elementos_rede.pdf` (Esquema representando os quatro elementos da rede).
+   - `classificacao_redes.pdf` ou `classificacao_redes.png` (Quadro comparativo das redes).
+   - `README.md` (Este arquivo, com a breve descrição do trabalho).
+
+---
+
+## Instruções Adicionais
+
+- As imagens devem ser claras e bem organizadas, para garantir que todos os conceitos sejam entendidos com facilidade.
+- As apresentações orais devem ser realizadas durante a aula, com uma explicação breve de cada artefato.
+- Publique todos os arquivos na pasta correspondente dentro do repositório GitHub da disciplina.
+- Utilize uma ferramenta digital (Google Slides, Canva, PowerPoint, etc.) para criar os artefatos visuais.
+
+---
+
+## Reflexão Individual (para casa)
+
+Após a aula, escreva uma reflexão de 1 página sobre como a evolução das redes de computadores influenciou a sociedade atual, com base nas discussões da aula.
+
+---
+
+## **Referências**:
+
+- **TANENBAUM, Andrew S.** *Redes de Computadores* (6ª Edição). Pearson/Bookman.
+- **SOARES, L.; LEMOS, G.; COLCHER, S.** *Redes de Computadores: Das LANs, MANs e WANs às Redes ATM*. Editora Campus.
+- **Amazon Web Services (AWS).** O que são redes de computadores?
+
+---
+
+Este **README.md** está pronto para ser copiado e colado no seu repositório GitHub. Ele contém todas as instruções necessárias para organizar a entrega do trabalho.
