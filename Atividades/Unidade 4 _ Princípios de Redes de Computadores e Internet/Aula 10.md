@@ -12,6 +12,7 @@
 
 ### 1. **Linha do Tempo**
 
+![Linha do Tempo das Redes](imagens/linha_do_tempo.png)
 
 
 ### 2. **Elementos da Rede**
