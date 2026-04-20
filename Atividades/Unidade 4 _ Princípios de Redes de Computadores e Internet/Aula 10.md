@@ -11,12 +11,6 @@
 - **Identificar os elementos básicos de uma rede.**
 - **Classificar redes segundo abrangência geográfica e modelo computacional.**
 
----
-
-## Estrutura da Entrega
-
-Cada grupo deve incluir neste repositório os seguintes artefatos:
-
 ### 1. **Linha do Tempo**
 A linha do tempo ilustrada deve representar os principais marcos da evolução das redes. Baseado no PDF enviado, a linha do tempo pode incluir:
 
