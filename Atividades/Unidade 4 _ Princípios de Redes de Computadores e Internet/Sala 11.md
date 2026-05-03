@@ -192,4 +192,5 @@ A pasta desta atividade contém:
 
 - TANENBAUM, A. S.; FEAMSTER, N.; WETHERALL, D. J. **Redes de computadores**. 6. ed. São Paulo: Bookman, 2021.
 - Material da Aula 11: **Fundamentos de Redes: Topologias, Dispositivos e Meios**.
+- Imagens:GamaIA + ArtigosGoogle
 
