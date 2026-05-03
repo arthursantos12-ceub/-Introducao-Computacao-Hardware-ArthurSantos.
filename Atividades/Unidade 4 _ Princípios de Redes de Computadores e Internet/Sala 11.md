@@ -18,7 +18,7 @@ A topologia de rede representa a forma como os nós, também chamados de hosts o
 - **Topologia física:** mostra como os cabos, equipamentos e conexões estão distribuídos no espaço.
 - **Topologia lógica:** mostra como os dados circulam entre os dispositivos, mesmo que a organização física seja diferente.
 
-![Diagramas de Topologias](topologia.png)
+![Diagramas de Topologias](imagens/topologia.png)
 
 ### Estrela (Star)
 
@@ -85,7 +85,7 @@ Na topologia em malha, os nós possuem múltiplas conexões entre si. Em uma mal
 
 Os dispositivos de rede podem ser divididos em **finais**, que geram ou consomem informação, e **intermediários**, que encaminham, organizam ou controlam o tráfego. Exemplos de dispositivos finais são notebook, celular, impressora e servidor. Exemplos de intermediários são hub, switch e roteador.
 
-![Quadro Comparativo de Dispositivos](dispositivos.png)
+![Quadro Comparativo de Dispositivos](imagens/dispositivos.png)
 
 | Critério | Hub | Switch | Roteador |
 |---|---|---|---|
@@ -108,7 +108,7 @@ O **roteador** conecta redes diferentes. Em uma residência, ele liga a rede loc
 
 Os meios de transmissão são os caminhos por onde os dados viajam. Eles podem ser divididos em **guiados**, quando o sinal passa por um meio físico, e **não guiados**, quando o sinal se propaga pelo espaço por ondas eletromagnéticas.
 
-![Meios de Transmissão](meios_transmissao.png)
+![Meios de Transmissão](imagens/meios_transmissao.png)
 
 ### 3.1 Meios Guiados (com fio)
 
