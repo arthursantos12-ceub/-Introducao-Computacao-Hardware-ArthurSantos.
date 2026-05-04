@@ -104,29 +104,7 @@ A principal diferença entre PAN, LAN, MAN e WAN está na **abrangência**. Já 
 
 ---
 
-## 5. Organização dos Arquivos para o GitHub
-
-A pasta do trabalho deve ser organizada da seguinte forma:
-
-```text
-Arthur_Redes_Aula10/
-├── README.md
-└── imagens/
-    ├── linha_do_tempo.png
-    ├── elementos_rede.png
-    └── classificacao_redes.png
-```
-
-### Arquivos entregues
-
-- `README.md`: descrição completa do trabalho, objetivos, explicações, tabelas e reflexão.
-- `imagens/linha_do_tempo.png`: linha do tempo ilustrada com os principais marcos da evolução das redes.
-- `imagens/elementos_rede.png`: esquema visual dos quatro elementos básicos de uma rede.
-- `imagens/classificacao_redes.png`: quadro comparativo das redes por abrangência geográfica e modelo computacional.
-
----
-
-## 6. Participação no Grupo
+## 5. Participação no Grupo
 
 Como o arquivo informa apenas um estudante, a organização foi registrada de forma individual.
 
@@ -136,7 +114,7 @@ Como o arquivo informa apenas um estudante, a organização foi registrada de fo
 
 ---
 
-## 7. Reflexão Individual
+## 6. Reflexão Individual
 
 A evolução das redes de computadores influenciou profundamente a sociedade atual. Antes, o uso dos computadores era restrito a grandes empresas, universidades e centros de pesquisa, principalmente por causa do tamanho, do custo e da complexidade dos equipamentos. Com o passar do tempo, as redes permitiram que computadores diferentes se comunicassem, compartilhassem informações e acessassem serviços à distância. Isso mudou a forma como as pessoas estudam, trabalham, compram, se comunicam e participam da vida social.
 
@@ -152,7 +130,7 @@ Portanto, a evolução das redes de computadores transformou a sociedade porque 
 
 ---
 
-## 8. Referências
+## 7. Referências
 
 - TANENBAUM, Andrew S.; WETHERALL, David J. *Redes de Computadores*. 6. ed. Pearson/Bookman.
 - SOARES, Luiz Fernando Gomes; LEMOS, Guido; COLCHER, Sérgio. *Redes de Computadores: Das LANs, MANs e WANs às Redes ATM*. Editora Campus.
