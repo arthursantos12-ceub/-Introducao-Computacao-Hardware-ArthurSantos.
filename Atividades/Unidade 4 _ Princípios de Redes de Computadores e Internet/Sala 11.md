@@ -165,19 +165,9 @@ A limitação dessa topologia é que ela depende muito do equipamento central. S
 
 ---
 
-## 6. Organização dos Arquivos
 
-A pasta desta atividade contém:
 
-- `topologia.png` — diagramas das topologias estrela, barramento, anel e malha.
-- `dispositivos.png` — quadro comparativo entre hub, switch e roteador.
-- `meios_transmissao.png` — classificação dos meios guiados e não guiados.
-- `README.md` — descrição completa do trabalho.
-- `reflexao_individual.md` — texto individual sobre a topologia mais adequada para uma residência.
-
----
-
-## 7. Critérios Atendidos
+## 6. Critérios Atendidos
 
 - Diagramas claros das principais topologias de rede.
 - Identificação dos hosts, dispositivos intermediários e meios de transmissão.
@@ -188,7 +178,7 @@ A pasta desta atividade contém:
 
 ---
 
-## ReferênciaReferencias
+## 7. ReferênciaReferencias
 
 - TANENBAUM, A. S.; FEAMSTER, N.; WETHERALL, D. J. **Redes de computadores**. 6. ed. São Paulo: Bookman, 2021.
 - Material da Aula 11: **Fundamentos de Redes: Topologias, Dispositivos e Meios**.
