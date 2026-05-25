@@ -90,3 +90,21 @@ Outro ponto importante é que muitas falhas acontecem por hábitos comuns: usar 
 Por isso, a segurança da informação não depende apenas de tecnologia. Ela depende também de comportamento, atenção, treinamento e responsabilidade. A conscientização dos usuários é uma das medidas mais importantes para reduzir riscos. Quando as pessoas aprendem a desconfiar de mensagens suspeitas, criar senhas fortes, verificar links e proteger seus dispositivos, elas deixam de ser uma vulnerabilidade fácil e passam a fazer parte da proteção da organização.
 
 Concluindo, o fator humano é frágil porque pessoas podem ser enganadas, agir com pressa ou cometer erros. Porém, com educação, boas práticas e cultura de segurança, esse ponto fraco pode ser transformado em uma defesa importante contra ameaças digitais.
+
+## Referências utilizadas
+
+- CERT.br. **Cartilha de Segurança para Internet**. Disponível em: https://cartilha.cert.br/
+
+- CERT.br. **Cartilha de Segurança para Internet – Livro em PDF**. Disponível em: https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf
+
+- NIST. **Cybersecurity Framework 2.0**. National Institute of Standards and Technology, 2024. Disponível em: https://www.nist.gov/cyberframework
+
+- NIST. **Estrutura de Segurança Cibernética (CSF) 2.0 do NIST – versão em português**. Disponível em: https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.por.pdf
+
+- ANPD. **Guia Orientativo sobre Segurança da Informação para Agentes de Tratamento de Pequeno Porte**. Autoridade Nacional de Proteção de Dados. Disponível em: https://www.gov.br/anpd/pt-br/centrais-de-conteudo/materiais-educativos-e-publicacoes/guia-orientativo-sobre-seguranca-da-informacao-para-agentes-de-tratamento-de-pequeno-porte
+
+- ENISA. **ENISA Threat Landscape 2024**. European Union Agency for Cybersecurity, 2024. Disponível em: https://www.enisa.europa.eu/publications/enisa-threat-landscape-2024
+
+- OWASP. **OWASP Top Ten Web Application Security Risks**. Disponível em: https://owasp.org/www-project-top-ten/
+
+- National Audit Office. **Investigation: WannaCry Cyber Attack and the NHS**. Reino Unido, 2017. Disponível em: https://www.nao.org.uk/wp-content/uploads/2017/10/Investigation-WannaCry-cyber-attack-and-the-NHS.pdf
