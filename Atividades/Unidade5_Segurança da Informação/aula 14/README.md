@@ -1,12 +1,5 @@
 # Ameaças e Vulnerabilidades
 
-## Diferença entre ameaça, vulnerabilidade, risco e controle
-
-- **Ameaça:** agente, evento ou situação com potencial para causar dano a um ativo, sistema ou informação.
-- **Vulnerabilidade:** fraqueza técnica, humana ou processual que pode ser explorada por uma ameaça.
-- **Risco:** possibilidade de uma ameaça explorar uma vulnerabilidade e causar impacto.
-- **Controle:** medida usada para reduzir, evitar, transferir ou aceitar riscos de forma planejada.
-
 ## Vulnerabilidades técnicas
 
 - Sistemas operacionais desatualizados.
@@ -26,10 +19,6 @@
 - Compartilhar dados sensíveis em ferramentas de IA sem autorização.
 - Conectar pendrives desconhecidos.
 - Trabalhar em redes públicas sem proteção.
-
-## Impactos potenciais em sistemas e organizações
-
-As ameaças e vulnerabilidades podem causar vazamento de dados, perda financeira, paralisação de serviços, dano à imagem da instituição, multas legais, perda de confiança de clientes, interrupção de operações e sequestro de arquivos por ransomware.
 
 ## Boas práticas destacadas na aula
 
@@ -67,16 +56,6 @@ O caso mostra a relação direta entre ameaça, vulnerabilidade, risco e control
 
 Este repositório apresenta os conceitos fundamentais de segurança da informação, seus atributos principais, ameaças digitais comuns e um estudo de caso sobre o ataque ransomware WannaCry. O conteúdo foi organizado conforme a proposta da Aula 14.
 
-## Arquivos principais
-
-- `conceitos.md` - definição de segurança da informação e atributos principais.
-- `ameacas.md` - ameaças, vulnerabilidades, riscos, impactos e boas práticas.
-- `estudo_de_caso.md` - análise do ataque WannaCry, opção A do estudo de cenário.
-- `reflexao_individual.md` - texto individual sobre o fator humano.
-- `slides/apresentacao_aula14.pptx` - apresentação resumida do trabalho.
-- `imagens/` - imagens dos slides da aula usadas no Markdown.
-- `arquivos/` - PDF original da aula e materiais auxiliares.
-
 # Reflexão Individual
 
 ## Por que o fator humano é considerado o elo mais frágil da segurança da informação?
@@ -90,6 +69,39 @@ Outro ponto importante é que muitas falhas acontecem por hábitos comuns: usar 
 Por isso, a segurança da informação não depende apenas de tecnologia. Ela depende também de comportamento, atenção, treinamento e responsabilidade. A conscientização dos usuários é uma das medidas mais importantes para reduzir riscos. Quando as pessoas aprendem a desconfiar de mensagens suspeitas, criar senhas fortes, verificar links e proteger seus dispositivos, elas deixam de ser uma vulnerabilidade fácil e passam a fazer parte da proteção da organização.
 
 Concluindo, o fator humano é frágil porque pessoas podem ser enganadas, agir com pressa ou cometer erros. Porém, com educação, boas práticas e cultura de segurança, esse ponto fraco pode ser transformado em uma defesa importante contra ameaças digitais.
+
+## Estudo de Cenário
+
+O WannaCry foi um ransomware que se espalhou mundialmente em maio de 2017, infectando mais de 230 mil computadores em cerca de 150 países.
+
+O ataque bloqueava arquivos das vítimas e exigia pagamento em Bitcoin para tentar liberar o acesso aos dados. Hospitais, empresas, universidades e órgãos públicos foram afetados, incluindo o sistema de saúde do Reino Unido.
+
+Vulnerabilidade Explorada
+
+O WannaCry explorou uma falha no Windows ligada ao protocolo SMBv1, conhecida como EternalBlue.
+
+Muitos computadores estavam desatualizados e sem as correções de segurança necessárias, o que facilitou a propagação rápida do malware pela rede.
+
+-Impactos Causados
+-Paralisação de serviços e empresas.
+-Bloqueio de arquivos e sistemas.
+-Cancelamento de atendimentos hospitalares.
+-Prejuízo financeiro estimado em bilhões de dólares.
+-Grande alerta mundial sobre segurança digital.
+-Medidas de Mitigação
+-Atualizar os sistemas Windows.
+-Instalar correções de segurança.
+-Desativar o SMBv1.
+-Utilizar antivírus atualizado.
+-Fazer backups frequentes.
+-Monitorar vulnerabilidades.
+-Treinar usuários sobre segurança digital.
+
+Conclusão
+
+O ataque WannaCry mostrou a importância de manter sistemas atualizados, realizar backups e aplicar boas práticas de segurança da informação.
+
+Esse caso serve como exemplo de como uma falha conhecida, quando não corrigida, pode causar grandes prejuízos em escala mundial.
 
 ## Referências utilizadas
 
