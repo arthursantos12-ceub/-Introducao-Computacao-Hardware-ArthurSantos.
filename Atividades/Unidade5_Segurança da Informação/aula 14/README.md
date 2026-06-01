@@ -1,122 +1,130 @@
-# Ameaças e Vulnerabilidades
+# Avaliação 3 - Segurança da Informação
 
-## Vulnerabilidades técnicas
+## Grupo
 
-- Sistemas operacionais desatualizados.
-- Falta de correções de segurança.
-- Senhas fracas ou reutilizadas.
-- Falta de autenticação em duas etapas.
-- Configurações incorretas em redes, servidores e permissões.
-- Uso de softwares piratas ou sem suporte.
-- Falta de backup confiável.
+**Grupo 1**
 
-## Vulnerabilidades humanas
+## Integrantes
 
-- Clicar em links suspeitos.
-- Abrir anexos desconhecidos.
-- Informar senhas por telefone, e-mail ou mensagem.
-- Usar a mesma senha em vários serviços.
-- Compartilhar dados sensíveis em ferramentas de IA sem autorização.
-- Conectar pendrives desconhecidos.
-- Trabalhar em redes públicas sem proteção.
+- **Arthur Santos**
+- **João Pedro Duarte**
+- **Lucas de Oliveira**
 
-## Boas práticas destacadas na aula
+---
 
-- Usar senhas fortes e gerenciadores de senhas.
-- Ativar autenticação em duas etapas.
-- Desconfiar de mensagens com urgência exagerada.
-- Verificar remetentes, links e anexos antes de clicar.
-- Manter sistemas, navegadores e aplicativos atualizados.
-- Usar VPN e firewall quando necessário.
-- Evitar Wi-Fi público para sistemas sensíveis.
-- Não inserir dados sensíveis nem código-fonte em ferramentas de IA sem autorização.
+## Ameaça Escolhida
 
-## Definição de Segurança da Informação
+**WannaCry**
 
-De acordo com a ISO/IEC 27000:2018, Segurança da Informação é a preservação da confidencialidade, integridade e disponibilidade da informação. Em outras palavras, é o conjunto de práticas, controles, políticas e tecnologias usados para proteger dados e sistemas contra acessos indevidos, alterações não autorizadas, perdas, indisponibilidade e outros incidentes.
+---
 
-Na aula, a segurança da informação foi apresentada como uma forma de proteger ativos informacionais, garantir a continuidade do negócio e reduzir incidentes. Também foi destacado que o objetivo central é aplicar controles apropriados para proteger as informações contra ameaças acidentais ou intencionais.
-## Medidas de mitigação aplicadas ou recomendadas
+## Cartilha Utilizada como Referência
 
-As medidas recomendadas para evitar ou reduzir ataques semelhantes são:
+**Cartilha de Segurança para Internet - CERT.br**, com foco em:
 
-1. Aplicar atualizações de segurança com rapidez, especialmente correções críticas como a MS17-010.
-2. Desativar protocolos antigos e inseguros, como SMBv1, quando não forem necessários.
-3. Manter backups atualizados, testados e isolados da rede principal.
-4. Utilizar antivírus, EDR, firewall e monitoramento de rede.
-5. Segmentar redes para impedir propagação lateral de malware.
-6. Treinar usuários sobre phishing, anexos suspeitos e engenharia social.
-7. Criar plano de resposta a incidentes com papéis e procedimentos claros.
-8. Fazer inventário de ativos e identificar sistemas antigos ou sem suporte.
+- Ransomware
+- Malware
+- Backup
+- Atualização de sistemas
+- Boas práticas de proteção digital
 
-## Relação com a aula
+---
 
-O caso mostra a relação direta entre ameaça, vulnerabilidade, risco e controle. A ameaça foi o ransomware WannaCry. A vulnerabilidade foi a falha no SMBv1 e a ausência de atualização em muitos ambientes. O risco se concretizou quando a ameaça explorou a vulnerabilidade. Os controles necessários envolvem atualização, backup, segmentação, conscientização e resposta a incidentes.
-## Descrição do trabalho
+## Descrição do Artefato Produzido
 
-Este repositório apresenta os conceitos fundamentais de segurança da informação, seus atributos principais, ameaças digitais comuns e um estudo de caso sobre o ataque ransomware WannaCry. O conteúdo foi organizado conforme a proposta da Aula 14.
+O artefato produzido pelo grupo foi uma **HQ** sobre o ataque **WannaCry**, um dos ransomwares mais conhecidos da história da segurança da informação.
+
+A história em quadrinhos apresenta, de forma criativa e simples, como o **WannaCry** funcionava, quais riscos ele causava e quais mecanismos de proteção poderiam ser utilizados para evitar ou reduzir seus impactos.
+
+Na HQ, o **WannaCry** é representado como uma ameaça digital capaz de bloquear arquivos e sistemas, exigindo pagamento para liberar o acesso aos dados.
+
+O material também mostra a importância de:
+
+- Manter os sistemas atualizados.
+- Realizar backups.
+- Utilizar antivírus.
+- Ativar mecanismos de proteção.
+- Conscientizar os usuários sobre segurança digital.
+
+---
+
+## Objetivo do Artefato
+
+O objetivo da HQ é explicar de maneira visual e acessível o perigo dos ransomwares, usando o caso **WannaCry** como exemplo.
+
+O trabalho busca mostrar que a segurança da informação depende tanto de ferramentas tecnológicas quanto do comportamento dos usuários.
+
+---
+
+## Conceitos Relacionados
+
+O ataque **WannaCry** está relacionado aos principais atributos da segurança da informação:
+
+- **Confidencialidade:** proteção dos dados contra acessos não autorizados.
+- **Integridade:** garantia de que as informações não sejam alteradas indevidamente.
+- **Disponibilidade:** garantia de que sistemas e dados estejam acessíveis quando necessário.
+- **Privacidade:** proteção das informações pessoais e sensíveis dos usuários.
+
+No caso do **WannaCry**, principalmente a **disponibilidade** foi afetada, pois arquivos e sistemas ficaram bloqueados, impedindo o acesso às informações.
+
+---
+
+## Mecanismos de Proteção
+
+Algumas medidas que ajudam a prevenir ataques como o **WannaCry** são:
+
+- Manter o sistema operacional atualizado.
+- Instalar correções de segurança.
+- Utilizar antivírus atualizado.
+- Fazer backups frequentes.
+- Desativar serviços antigos e inseguros, como o SMBv1.
+- Utilizar firewall.
+- Aplicar autenticação multifator.
+- Treinar os usuários para reconhecer ameaças digitais.
+- Monitorar vulnerabilidades nos sistemas.
+
+---
 
 # Reflexão Individual
 
-## Por que o fator humano é considerado o elo mais frágil da segurança da informação?
+## Como as novas tecnologias podem fortalecer os mecanismos de proteção em segurança da informação?
 
-O fator humano é considerado o elo mais frágil da segurança da informação porque, mesmo quando a organização possui boas ferramentas de proteção, as pessoas ainda podem tomar decisões que abrem caminho para ataques. Um sistema pode ter antivírus, firewall, criptografia e autenticação em duas etapas, mas basta um usuário clicar em um link falso, baixar um anexo malicioso ou informar sua senha em uma página falsa para que a segurança seja comprometida.
+As novas tecnologias podem fortalecer os mecanismos de proteção em segurança da informação porque ajudam a identificar ameaças com mais rapidez, proteger dados importantes e reduzir os impactos de ataques cibernéticos.
 
-A engenharia social mostra muito bem esse problema. Em vez de atacar diretamente a tecnologia, o criminoso tenta manipular a pessoa. Ele pode criar uma mensagem com aparência de banco, escola, empresa ou serviço conhecido. Também pode usar medo, urgência ou curiosidade para fazer a vítima agir sem pensar. Frases como “sua conta será bloqueada”, “confirme seus dados agora” ou “abra este documento urgente” são exemplos de estratégias usadas para pressionar o usuário.
+Atualmente, empresas, órgãos públicos e usuários dependem cada vez mais de sistemas digitais. Por isso, a proteção das informações se tornou essencial.
 
-Outro ponto importante é que muitas falhas acontecem por hábitos comuns: usar senhas fracas, repetir a mesma senha em vários sites, deixar dispositivos desbloqueados, conectar pendrives desconhecidos, ignorar atualizações ou compartilhar informações sensíveis em locais inadequados. Essas atitudes parecem pequenas, mas podem gerar grandes consequências, como vazamento de dados, perda de arquivos, prejuízo financeiro e interrupção de serviços.
+Uma das tecnologias mais importantes nesse processo é a **inteligência artificial**. Ela pode analisar grandes quantidades de dados, identificar comportamentos suspeitos e detectar possíveis ataques antes que eles causem grandes prejuízos.
 
-Por isso, a segurança da informação não depende apenas de tecnologia. Ela depende também de comportamento, atenção, treinamento e responsabilidade. A conscientização dos usuários é uma das medidas mais importantes para reduzir riscos. Quando as pessoas aprendem a desconfiar de mensagens suspeitas, criar senhas fortes, verificar links e proteger seus dispositivos, elas deixam de ser uma vulnerabilidade fácil e passam a fazer parte da proteção da organização.
+Por exemplo, em casos de **malware** ou **ransomware**, a inteligência artificial pode perceber atividades incomuns, como muitos arquivos sendo modificados rapidamente, e emitir alertas de segurança.
 
-Concluindo, o fator humano é frágil porque pessoas podem ser enganadas, agir com pressa ou cometer erros. Porém, com educação, boas práticas e cultura de segurança, esse ponto fraco pode ser transformado em uma defesa importante contra ameaças digitais.
+Outra tecnologia importante é a **biometria**, que fortalece o controle de acesso. O uso de impressão digital, reconhecimento facial ou reconhecimento de voz dificulta que pessoas não autorizadas acessem sistemas e informações sigilosas.
 
-## Estudo de Cenário
+Isso aumenta a segurança, principalmente quando combinado com senhas fortes e autenticação multifator.
 
-O WannaCry foi um ransomware que se espalhou mundialmente em maio de 2017, infectando mais de 230 mil computadores em cerca de 150 países.
+A **autenticação multifator** também é um mecanismo muito eficiente, pois exige mais de uma forma de confirmação para acessar uma conta ou sistema.
 
-O ataque bloqueava arquivos das vítimas e exigia pagamento em Bitcoin para tentar liberar o acesso aos dados. Hospitais, empresas, universidades e órgãos públicos foram afetados, incluindo o sistema de saúde do Reino Unido.
+Mesmo que uma senha seja descoberta, o invasor ainda precisaria de outro fator de autenticação, como um código enviado ao celular ou uma confirmação por aplicativo.
 
-Vulnerabilidade Explorada
+Além disso, tecnologias como **backup em nuvem** ajudam na recuperação de dados em casos de ataques.
 
-O WannaCry explorou uma falha no Windows ligada ao protocolo SMBv1, conhecida como EternalBlue.
+Se uma empresa for vítima de ransomware, por exemplo, poderá restaurar seus arquivos a partir de cópias de segurança, sem depender do pagamento exigido pelos criminosos.
 
-Muitos computadores estavam desatualizados e sem as correções de segurança necessárias, o que facilitou a propagação rápida do malware pela rede.
+A **criptografia** também fortalece a proteção das informações, pois transforma os dados em códigos que só podem ser lidos por pessoas autorizadas. Isso contribui para manter a confidencialidade e a privacidade dos usuários.
 
--Impactos Causados
--Paralisação de serviços e empresas.
--Bloqueio de arquivos e sistemas.
--Cancelamento de atendimentos hospitalares.
--Prejuízo financeiro estimado em bilhões de dólares.
--Grande alerta mundial sobre segurança digital.
--Medidas de Mitigação
--Atualizar os sistemas Windows.
--Instalar correções de segurança.
--Desativar o SMBv1.
--Utilizar antivírus atualizado.
--Fazer backups frequentes.
--Monitorar vulnerabilidades.
--Treinar usuários sobre segurança digital.
+Portanto, as novas tecnologias tornam a segurança da informação mais eficiente, rápida e inteligente.
 
-Conclusão
+No entanto, elas não substituem a responsabilidade dos usuários. Para que a proteção seja realmente eficaz, é necessário unir tecnologia, atualização constante, boas práticas, treinamento e conscientização digital.
 
-O ataque WannaCry mostrou a importância de manter sistemas atualizados, realizar backups e aplicar boas práticas de segurança da informação.
+Dessa forma, é possível reduzir riscos, proteger dados e garantir maior segurança no uso dos sistemas digitais.
 
-Esse caso serve como exemplo de como uma falha conhecida, quando não corrigida, pode causar grandes prejuízos em escala mundial.
+# Referências
 
-## Referências utilizadas
+AIDAR, Laura. **História em Quadrinhos**. Toda Matéria, [s. d.]. Disponível em: https://www.todamateria.com.br/historia-em-quadrinhos/. Acesso em: 1 jun. 2026.
 
-- CERT.br. **Cartilha de Segurança para Internet**. Disponível em: https://cartilha.cert.br/
+CLOUDFLARE. **O que foi o ataque de ransomware WannaCry?** Cloudflare, [s. d.]. Disponível em: https://www.cloudflare.com/pt-br/learning/security/ransomware/wannacry-ransomware/. Acesso em: 1 jun. 2026.
 
-- CERT.br. **Cartilha de Segurança para Internet – Livro em PDF**. Disponível em: https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf
+IBM. **O que é cibersegurança?** IBM Think, [s. d.]. Disponível em: https://www.ibm.com/br-pt/think/topics/cybersecurity. Acesso em: 1 jun. 2026.
 
-- NIST. **Cybersecurity Framework 2.0**. National Institute of Standards and Technology, 2024. Disponível em: https://www.nist.gov/cyberframework
+CERT.BR. **Cartilha de Segurança para Internet**. CERT.br, [s. d.]. Disponível em: https://cartilha.cert.br/. Acesso em: 1 jun. 2026.
 
-- NIST. **Estrutura de Segurança Cibernética (CSF) 2.0 do NIST – versão em português**. Disponível em: https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.por.pdf
-
-- ANPD. **Guia Orientativo sobre Segurança da Informação para Agentes de Tratamento de Pequeno Porte**. Autoridade Nacional de Proteção de Dados. Disponível em: https://www.gov.br/anpd/pt-br/centrais-de-conteudo/materiais-educativos-e-publicacoes/guia-orientativo-sobre-seguranca-da-informacao-para-agentes-de-tratamento-de-pequeno-porte
-
-- ENISA. **ENISA Threat Landscape 2024**. European Union Agency for Cybersecurity, 2024. Disponível em: https://www.enisa.europa.eu/publications/enisa-threat-landscape-2024
-
-- OWASP. **OWASP Top Ten Web Application Security Risks**. Disponível em: https://owasp.org/www-project-top-ten/
-
-- National Audit Office. **Investigation: WannaCry Cyber Attack and the NHS**. Reino Unido, 2017. Disponível em: https://www.nao.org.uk/wp-content/uploads/2017/10/Investigation-WannaCry-cyber-attack-and-the-NHS.pdf
+PROFESSORA DA DISCIPLINA. **Slides da Aula 14 e Aula 15: Segurança da Informação: conceitos, atributos, ameaças e mecanismos de proteção**. Material de aula. 2026.
